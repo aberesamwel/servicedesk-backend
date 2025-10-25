@@ -2,3 +2,4 @@ from flask import Blueprint
 users_bp = Blueprint('users', __name__)
 # Notification preferences endpoint
 # Test notification endpoint
+# Queue status monitoring

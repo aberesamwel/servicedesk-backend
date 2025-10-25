@@ -5,3 +5,4 @@ class NotificationService:
     pass
 import queue
 import threading
+# Email templates

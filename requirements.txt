@@ -11,3 +11,4 @@ marshmallow-sqlalchemy==0.29.0
 Werkzeug==3.0.1
 redis==5.0.1
 reportlab==4.0.4
+gunicorn==21.2.0

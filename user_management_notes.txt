@@ -1,0 +1,9 @@
+User Management API Endpoints:
+
+GET /api/users - List all users with optional role filtering
+GET /api/users/{id} - Get specific user details
+POST /api/users - Create new user
+PUT /api/users/{id} - Update user information
+DELETE /api/users/{id} - Remove user
+
+Status: Implementation complete

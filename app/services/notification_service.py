@@ -6,3 +6,4 @@ class NotificationService:
 import queue
 import threading
 # Email templates
+# Background worker

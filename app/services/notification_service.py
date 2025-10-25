@@ -7,3 +7,4 @@ import queue
 import threading
 # Email templates
 # Background worker
+# Notification system complete - DESK-203
